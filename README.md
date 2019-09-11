@@ -1,6 +1,6 @@
 # Chest-X-ray-Disease-Prediction
 
-![alt text](http://url/to/img.png)
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjPxdXdw8jkAhWg63MBHe6FCD0QjRx6BAgBEAQ&url=https%3A%2F%2Freference.medscape.com%2Fslideshow%2Fchest-radiographs-30765&psig=AOvVaw3LtgjZX-6L9FmF4gtZfrGU&ust=1568283035573157)
 
 
 
