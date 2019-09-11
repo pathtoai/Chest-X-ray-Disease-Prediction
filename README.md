@@ -1,6 +1,6 @@
 # Chest-X-ray-Disease-Prediction
 
-![alt text]()
+![alt text](https://github.com/pathtoai/Chest-X-ray-Disease-Prediction/blob/master/NIH%20dataset.PNG)
 
 
 
