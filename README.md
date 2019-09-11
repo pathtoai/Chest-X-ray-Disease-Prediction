@@ -1,5 +1,4 @@
 # Chest-X-ray-Disease-Prediction
-![Image](images/demo.png)
 
 
 
