@@ -1,6 +1,6 @@
 # Chest-X-ray-Disease-Prediction
 
-![Image](NIH dataset.PNG)
+![Image](NIH dataset.jpg)
 
 
 
